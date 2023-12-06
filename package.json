@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@grafana/faro-web-sdk": "^1.2.3",
+    "@grafana/faro-web-sdk": "^1.2.5",
     "@grafana/faro-web-tracing": "^1.2.3",
     "@opentelemetry/api": "^1.4.1",
     "@opentelemetry/auto-instrumentations-web": "^0.33.2",
